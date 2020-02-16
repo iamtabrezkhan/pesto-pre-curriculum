@@ -1,0 +1,22 @@
+{
+  "name": "pesto-pre-curriculum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtabrezkhan/pesto-pre-curriculum.git"
+  },
+  "author": "Tabrez Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtabrezkhan/pesto-pre-curriculum/issues"
+  },
+  "homepage": "https://github.com/iamtabrezkhan/pesto-pre-curriculum#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
